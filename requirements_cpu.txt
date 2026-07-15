@@ -1,0 +1,13 @@
+# === Core (CPU only) ===
+torch==2.9.0
+openai-whisper==20240930
+numpy>=1.24.0
+sounddevice>=0.4.6
+python-docx>=0.8.11
+
+# === GUI Libraries ===
+customtkinter>=5.2.2
+PyQt5>=5.15.10
+
+# === Utility / System Tools ===
+ffmpeg-python>=0.2.0
